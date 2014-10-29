@@ -1,1 +1,2 @@
 abstract.tex
+general_method.tex
