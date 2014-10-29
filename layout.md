@@ -1,5 +1,6 @@
 abstract.tex
 general_method.tex
 ground_calib.tex
+figures/ground_calib_overview/ground_calib_overview.gif
 inflight_calib.tex
 error_discussion.tex
