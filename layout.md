@@ -2,5 +2,6 @@ abstract.tex
 general_method.tex
 ground_calib.tex
 figures/ground_calib_overview/ground_calib_overview.gif
+figures/temp_sensors_fixed/temp_sensors_fixed.gif
 inflight_calib.tex
 error_discussion.tex
