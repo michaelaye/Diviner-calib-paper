@@ -6,5 +6,5 @@ a.k.a. the elevator pitch:
 \item Around the same time the instrument also points at an internal blackbody source at a measured temperature, defining a $counts_{BB}\left(T_{BB}\right)$ with errors of $\sigma_{sensor}$ and $\sigma_{placement}$ of that temperature sensor.
 \item The aforementioned measured temperature is used to look up the radiance $R_{BB}\left(T_{BB}\right)$ for the given temperature in a previously determined calibration table.
 \item By dividing this look-up radiance by the difference between the measured counts for space and black-body like so: $$ gain\left(T_{BB}\right) = \frac{-R_{BB}}{counts_{space} - counts_{BB}\left(T_{BB}\right)} $$ we define a gain for this blackbody temperature.
-\item $$ Radiance = \left(counts - offset\right) * gain $$
+\item $$ Radiance = \left(counts - offset\right) \cdot gain $$
 \end{enumerate}
