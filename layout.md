@@ -3,7 +3,6 @@ general_method.tex
 ground_calib.tex
 figures/ground_calib_overview1/ground_calib_overview1.png
 figures/temp_sensors_fixed1/temp_sensors_fixed1.png
-figures/temp_sensors_variable/temp_sensors_variable.gif
 radiometric_tests.tex
 Radiometric.tex
 Spectral.tex
