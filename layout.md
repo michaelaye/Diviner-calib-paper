@@ -5,8 +5,8 @@ figures/ground_calib_overview/ground_calib_overview.gif
 figures/temp_sensors_fixed/temp_sensors_fixed.gif
 figures/temp_sensors_variable/temp_sensors_variable.gif
 radiometric_tests.tex
-FOV.tex
 Radiometric.tex
 Spectral.tex
+FOV.tex
 inflight_calib.tex
 error_discussion.tex
