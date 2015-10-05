@@ -8,3 +8,9 @@ a.k.a. the elevator pitch:
 \item By dividing this look-up radiance by the difference between the measured counts for space and black-body like so: $$ gain\left(T_{BB}\right) = \frac{-R_{BB}}{counts_{space} - counts_{BB}\left(T_{BB}\right)} $$ we define a gain for this blackbody temperature.
 \item $$ Radiance = \left(counts - offset\right) \cdot gain $$
 \end{enumerate}
+
+This is the general idea, while the devil is in the detail:
+\begin{itemize}
+\item Interpolation of HK blackbody temperature data. Interestingly, different time interval for telescope 1 and telescope 2.
+\item above gain and offset are defined only defined for one calibration station, called "block" in this paper. They need to be smoothly interpolated so that every data sample has one offset and sample available.
+\end{itemize}
